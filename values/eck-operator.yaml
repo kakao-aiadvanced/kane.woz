@@ -1,0 +1,5 @@
+eck-operator-crds:
+  global:
+    createOperatorNamespace: true
+    kubeVersion: 1.26.4
+    manifestGen: false
